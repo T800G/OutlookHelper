@@ -1,2 +1,2 @@
 # OutlookHelper
-Outlook window positioning helper
+This small app solves the bug with Outlook windows' positioning on multiple monitors.
