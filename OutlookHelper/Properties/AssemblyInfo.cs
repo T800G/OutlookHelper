@@ -12,7 +12,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration ("")]
 [assembly: AssemblyCompany ("")]
 [assembly: AssemblyProduct ("OutlookHelper")]
-[assembly: AssemblyCopyright ("T800 Productions (c) 2021")]
+[assembly: AssemblyCopyright ("T800 Productions (c) 2022")]
 [assembly: AssemblyTrademark ("")]
 [assembly: AssemblyCulture ("")]
 // This sets the default COM visibility of types in the assembly to invisible.
